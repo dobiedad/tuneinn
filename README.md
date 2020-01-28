@@ -4,4 +4,14 @@
 
 # Install
 
-- Drag `TuneInn.app` from the this repo to your `Applications` folder
+- Drag `TuneInn.app` from this repo to your `Applications` folder
+
+# Screenshots
+
+## Using Pock
+
+![Pock touchbar](Pock.png)
+
+## Using Default OSX touchbar
+
+![OSX touchbar](Default.png)
