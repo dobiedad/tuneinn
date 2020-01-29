@@ -36,6 +36,18 @@
                                     </items>
                                 </menu>
                             </menuItem>
+                            <menuItem title="View" id="OvC-OW-a8j">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <menu key="submenu" title="View" systemMenu="apple" id="DEr-8e-G40">
+                                    <items>
+                                        <menuItem title="Reload" alternate="YES" keyEquivalent="r" id="j6h-9L-IvG">
+                                            <connections>
+                                                <action selector="reloadClicked:" target="Ady-hI-5gd" id="p2g-6K-xem"/>
+                                            </connections>
+                                        </menuItem>
+                                    </items>
+                                </menu>
+                            </menuItem>
                             <menuItem title="Window" id="aUF-d1-5bR">
                                 <modifierMask key="keyEquivalentModifierMask"/>
                                 <menu key="submenu" title="Window" systemMenu="window" id="Td7-aD-5lo">
