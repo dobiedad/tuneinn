@@ -30,7 +30,7 @@
                                         </menuItem>
                                         <menuItem title="Quit TuneInn" keyEquivalent="q" id="4sb-4s-VLi">
                                             <connections>
-                                                <action selector="terminate:" target="Ady-hI-5gd" id="Te7-pn-YzF"/>
+                                                <action selector="terminateApplication:" target="Ady-hI-5gd" id="Jx8-FS-Nlc"/>
                                             </connections>
                                         </menuItem>
                                     </items>
@@ -111,7 +111,7 @@
             <objects>
                 <viewController id="XfG-lQ-9wD" customClass="ViewController" customModule="TuneInn" customModuleProvider="target" sceneMemberID="viewController">
                     <wkWebView key="view" wantsLayer="YES" id="1ja-uU-qxX">
-                        <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
+                        <rect key="frame" x="0.0" y="0.0" width="1080" height="720"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <wkWebViewConfiguration key="configuration">
                             <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
