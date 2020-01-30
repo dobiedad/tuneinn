@@ -14,7 +14,7 @@ There are a few very basic features included
 
 # Screenshots
 
-![TuneInn screenshot](tune_in.png)
+![TuneInn screenshot](tune_inn.png)
 
 ## Using Pock
 
